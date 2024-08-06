@@ -44,5 +44,8 @@ The `GetIt` package is used for dependency injection, making it easy to manage a
 ![alt text](image-3.png)
 
 ## Demo Video
-[here](20240806-1829-33.0679759.mp4).
+
+Watch the demo video
+
+![alt text](<Screen_Recording_2024-08-06 213008.gif>)
 
