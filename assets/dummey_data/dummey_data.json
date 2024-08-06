@@ -1,0 +1,40 @@
+{
+    "name": "Mariam Amin",
+    "image": "profile.png",
+    "Balance": 1243.0383,
+    "income": 132,
+    "outcome": 343,
+    "transaction": [
+        {
+            "title": "Adobe IIllustrator",
+            "sub title": "Subcription fee",
+            "price": -10
+        },
+        {
+            "title": "Dribble",
+            "sub title": "Subcription fee",
+            "price": 154
+        },
+        {
+            "title": "Sony Camera",
+            "sub title": "Subcription fee",
+            "price": 140
+        },
+        {
+            "title": "Paypal",
+            "sub title": "Salary",
+            "price": -766
+        }
+
+    ],
+    "earning":[
+        {"name":"UpWork","price":268},
+        {"name":"FreePick","price":75},
+        {"name":"Canva","price":986},
+        {"name":"Schooler","price":156},
+        {"name":"UpWork","price":120}
+
+
+
+    ]
+}
