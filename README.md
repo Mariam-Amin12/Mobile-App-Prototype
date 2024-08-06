@@ -49,11 +49,4 @@ Watch the demo video
 
 <video controls src="20240806-1829-33.0679759.mp4" title="Title"></video>
 
-## Getting Started
 
-1. **Clone the repository**:
-
-   ``` sh
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
